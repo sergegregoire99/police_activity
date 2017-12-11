@@ -1,0 +1,6 @@
+venv
+code_municipalites.csv
+*.pdf
+debug.csv
+stats_mrc.csv
+stats.csv
